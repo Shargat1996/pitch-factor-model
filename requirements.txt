@@ -4,3 +4,8 @@ matplotlib
 seaborn
 scikit-learn
 voila
+voila
+notebook
+nbconvert
+ipython
+ipywidgets
