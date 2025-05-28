@@ -1,10 +1,9 @@
+voila>=0.4.0
+notebook
+nbconvert
+ipywidgets
 pandas
 numpy
 matplotlib
 seaborn
 scikit-learn
-voila>=0.4.0
-notebook
-nbconvert
-ipython
-ipywidgets
